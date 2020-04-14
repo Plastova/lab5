@@ -1,6 +1,6 @@
 all:
-	g++ main.cpp -o main
+	g++ lab5.cpp -o lab5
 	
 run:
-	main
+	lab5
 	
